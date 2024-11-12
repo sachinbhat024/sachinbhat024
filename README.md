@@ -1,5 +1,5 @@
 👋 Hi there, I’m Sachin
-- 👀 I’m interested in leveraging Data Science to create magic
+- 👀 I’m passionate about leveraging Data Science to create magic
 - 🌱 I’m currently learning something extremely cool
 - 📫 You can reach me at www.linkedin.com/in/sachinbhat024
 
