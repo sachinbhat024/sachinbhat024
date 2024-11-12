@@ -1,6 +1,6 @@
 👋 Hi there, I’m Sachin Bhat!
 - 👀 I’m passionate about leveraging Data Science to create magic
-- 🌱 I’m currently learning something extremely cool
+- 🌱 I’m currently learning something cool (extremely)
 - 📫 You can reach me at linkedin.com/in/sachinbhat024
 
 <!---
