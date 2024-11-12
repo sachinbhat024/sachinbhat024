@@ -1,5 +1,5 @@
 👋 Hi there, I’m Sachin
-- 👀 I’m interested in ML and AI models
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning something extremely cool
 - 📫 You can reach me at www.linkedin.com/in/sachinbhat024
 
