@@ -1,8 +1,8 @@
 👋 Hello Hello, I’m Sachin Bhat!
 
 **About Me** 🚀
-- 👀 I’m passionate about Data Science and I enjoy learning new things.
-- 🌱 I’m currently learning something cool (extremely).
+- 🌱 I'm a Data Science professional with a Master's degree in Business Analytics (specialising in ML and AI).
+- 👀 I'm passionate about Data Science and I enjoy learning new things.
 - 📫 You can reach me at www.linkedin.com/in/sachinbhat024.
 
 <!---
