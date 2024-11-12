@@ -1,5 +1,4 @@
-# 👋 Hello Hello, I’m [Sachin Bhat!](www.linkedin.com/in/sachinbhat024)
-
+# Hello Hello, I’m [Sachin Bhat!](www.linkedin.com/in/sachinbhat024) 👋
 **About Me** 🚀
  
  🌱 I'm a Data Science guy with a Master's degree in Business Analytics (specialising in ML and AI).
