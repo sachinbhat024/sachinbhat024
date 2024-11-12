@@ -1,5 +1,5 @@
 👋 Hi there, I’m Sachin
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in leveraging Data Science to support businesses
 - 🌱 I’m currently learning something extremely cool
 - 📫 You can reach me at www.linkedin.com/in/sachinbhat024
 
