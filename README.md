@@ -1,4 +1,4 @@
-# 👋 Hello Hello, I’m Sachin Bhat!
+# 👋 Hello Hello, I’m [Sachin Bhat!](www.linkedin.com/in/sachinbhat024)
 
 **About Me** 🚀
  
