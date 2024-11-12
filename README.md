@@ -2,7 +2,7 @@
 
 **About Me** 🚀
  
- 🌱 I'm a Data Science professional with a Master's degree in Business Analytics (specialising in ML and AI).
+ 🌱 I'm a Data Science guy with a Master's degree in Business Analytics (specialising in ML and AI).
  
  👀 I'm passionate about Data Science and I enjoy learning new things.
  
