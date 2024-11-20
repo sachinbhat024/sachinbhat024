@@ -1,9 +1,9 @@
-# Hello Hello, I’m [Sachin Bhat!](www.linkedin.com/in/sachinbhat024) 👋
+# Hello, I’m [Sachin Bhat!](www.linkedin.com/in/sachinbhat024) 👋
 **About Me** 🚀
  
-👀 I'm a Data Science guy with a Master's degree in Business Analytics (specialising in ML and AI).
+🎓 **Data Science** guy with a Master's degree in Business Analytics, specialised in **Machine Learning (ML)** and **Artificial Intelligence (AI)**.
  
-🌱 I'm passionate about Data Science and I enjoy learning new things.
+🌱 Passionate about **solving complex problems with data** and **learning new technologies**.
 
 :computer: An Engineer.
 
