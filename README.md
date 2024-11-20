@@ -5,9 +5,9 @@
  
 🌱 Passionate about **solving complex problems with data** and **learning new technologies**.
 
-:computer: An Engineer.
+:computer: Background as an **Engineer**, leveraging analytical and technical skills in real-world projects.
 
-📫 You can reach me at www.linkedin.com/in/sachinbhat024.
+💼 Connect with Me at www.linkedin.com/in/sachinbhat024.
 
 **My Experiences**  🙌
  
