@@ -1,7 +1,7 @@
 # Hello, I’m [Sachin Bhat!](https://www.linkedin.com/in/sachinbhat024) 👋
 **About Me** 🚀
  
-🎓 MSBA graduate from **Deakin University, Australia**, specialised in Machine Learning (ML) and Artificial Intelligence (AI).
+🎓 Master of Business Analytics graduate from **Deakin University, Australia**, specialised in Machine Learning (ML) and Artificial Intelligence (AI).
  
 🌱 Passionate about **solving complex problems with data** and **learning new technologies**.
 
