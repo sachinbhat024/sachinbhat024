@@ -7,7 +7,7 @@
 
 :computer: Background as an **Engineer**, leveraging analytical and technical skills in real-world projects.
 
-💼 Connect with Me at www.linkedin.com/in/sachinbhat024.
+💼 Connect with me at www.linkedin.com/in/sachinbhat024.
 
 **My Experiences**  🙌
  
