@@ -1,7 +1,7 @@
 # Hi there, I’m [Sachin Bhat!](https://www.linkedin.com/in/sachinbhat024) 👋
 **About Me** 🚀
  
-🎓 I am a Data Science enthusiast holding a Master's degree in **Business Analytics** from **Deakin University Australia**, specialising in **Machine Learning (ML)** and **Artificial Intelligence (AI)**.
+🎓 I am a Data Science enthusiast holding a Master's degree in **Business Analytics** from **Deakin University Australia** with specialisations in **Machine Learning (ML)** and **Artificial Intelligence (AI)**.
  
 🌱 Passionate about **solving complex problems with data** and **learning new technologies**.
 
