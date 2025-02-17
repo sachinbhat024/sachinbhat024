@@ -1,4 +1,4 @@
- <h1 align = "center"> # Hi there, I’m [Sachin Bhat!](https://www.linkedin.com/in/sachinbhat024) 👋 </h1>
+ <h1 align = "center"># Hi there, I’m [Sachin Bhat!](https://www.linkedin.com/in/sachinbhat024) 👋</h1>
 **About Me** 🚀
  
 🎓 I am a Data Science enthusiast holding a Master's degree in **Business Analytics** from **Deakin University Australia** with specialisations in **Machine Learning (ML)** and **Artificial Intelligence (AI)**.
