@@ -16,6 +16,22 @@
 [Technical Support Engineer, Payments and Software @ Pine Labs](https://www.pinelabs.com/) - (Mar 2020 - Mar 2022)
 
 [Data Analyst @ Growdiesel Ventures Limited](https://growdiesel.com/) - (Jul 2018 - Feb 2020)
+
+🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
+
+Linear Regression
+Logistic Regression
+Support Vector Machines (SVM)
+Decision Trees (DT)
+Random Forests (RF)
+K-Nearest Neighbors (KNN)
+Deep Neural Networks
+Convolutional Neural Networks (CNN)
+Recurrent Neural Networks (RNN)
+Naive Bayes (NB)
+Gradient Boosted Decision Trees (GBDT)
+XGBoost
+Long Short-Term Memory (LSTM)
  
  <!---
 sachinbhat024/sachinbhat024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
