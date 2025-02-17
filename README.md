@@ -17,7 +17,7 @@
 
 [Data Analyst @ Growdiesel Ventures Limited](https://growdiesel.com/) - (Jul 2018 - Feb 2020)
 
-🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
+🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some of them:
 
 * *Linear Regression*
 * *Logistic Regression*
