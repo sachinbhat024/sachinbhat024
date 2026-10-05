@@ -9,7 +9,9 @@
 
 💼 Connect with me at www.linkedin.com/in/sachinbhat024.
 
-**My Experiences (4 years)**  🙌
+**My Experiences (5 years)**  🙌
+
+[Business Analyst @ Growdiesel Ventures Limited](https://growdiesel.com/) - (Dec 2024 - Present)
  
 [Data Analytics Intern @ Varun Beverages Limited, PepsiCo](https://www.varunbeverages.com/) - (Jan 2023 - Feb 2023)
 
